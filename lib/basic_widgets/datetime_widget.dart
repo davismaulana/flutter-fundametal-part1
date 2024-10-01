@@ -1,30 +1,16 @@
 import 'dart:async';
 import 'package:flutter/material.dart';
 
-void main() => runApp(const MyApp());
-
-class MyApp extends StatelessWidget {
-  const MyApp({Key? key}) : super(key: key);
-
-  @override
-  Widget build(BuildContext context) {
-    return const MaterialApp(
-      title: 'Contoh Date Picker',
-      home: MyHomePage(title: 'Contoh Date Picker'),
-    );
-  }
-}
-
-class MyHomePage extends StatefulWidget {
-  const MyHomePage({Key? key, required this.title}) : super(key: key);
+class MyDatePage extends StatefulWidget {
+  const MyDatePage({super.key, required this.title});
 
   final String title;
 
   @override
-  _MyHomePageState createState() => _MyHomePageState();
+  _MyDatePageState createState() => _MyDatePageState();
 }
 
-class _MyHomePageState extends State<MyHomePage> {
+class _MyDatePageState extends State<MyDatePage> {
   // Variable/State untuk mengambil tanggal
   DateTime selectedDate = DateTime.now();
 

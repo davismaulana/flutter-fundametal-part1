@@ -1,16 +1,34 @@
-# hello_world
+# Practicum 1
 
-A new Flutter project.
+![alt text](<Screenshot 2024-09-27 105319-1.png>)
 
-## Getting Started
+# Practicum 2
 
-This project is a starting point for a Flutter application.
+![alt text](image.png)
 
-A few resources to get you started if this is your first Flutter project:
+# Practicum 3
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+![alt text](images/01.png)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# Practicum 4 
+
+![alt text](image-1.png)
+
+# Practicum 5
+
+Step 3 :
+![alt text](image-2.png)
+
+Step 4 : 
+![alt text](image-3.png)
+![alt text](image-4.png)
+
+Step 5 :
+![alt text](image-5.png)
+
+Step 6 : 
+![alt text](image-6.png)
+
+
+
+
